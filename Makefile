@@ -5,6 +5,6 @@ test:
 	DEBUG=ejs* ./node_modules/mocha/bin/mocha \
     $(NODE_FLAGS) \
 		--reporter $(REPORTER) \
-		test/*.js
+		test/test.js
 
 .PHONY: test
