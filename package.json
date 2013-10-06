@@ -2,7 +2,7 @@
   "author": "Simon Tabor <me@simontabor.com> (simontabor.com)",
   "name": "ejs2",
   "description": "EJS v2",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/simontabor/ejs2.git"
